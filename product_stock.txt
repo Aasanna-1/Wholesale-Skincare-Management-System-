@@ -1,5 +1,0 @@
-ID	  Name			Brand		 Quantity	  Price		 Country
-==========================================================================================
-1	Safe SunUV		 Lotus		   14		   800		   India
-2	Aveeno Protect		 Aveeno		    65		   600		   USA
-3	Sun Protect		 Nivea		    45		   1200		   Germany
